@@ -70,5 +70,12 @@ Download historical stock prices from finance.yahoo.com
 Download textual (news) data from https://bit.ly/36fFPI6
 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
+# Task-8 : Timeline Analysis : Covid-19 (Level - Advanced)
 
+Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
+Use animation, timeline and annotations to create attractive and interactive dashboards and story
+Identify interesting patterns and possible reasons helping Covid 19 spread with basic as well as advanced charts
+Use Tableau or Power BI for this task
+Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.
+Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
